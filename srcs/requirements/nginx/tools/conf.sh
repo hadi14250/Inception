@@ -5,7 +5,7 @@ openssl req -x509 -newkey rsa:2048 -days 365 -nodes -keyout /etc/nginx/certifica
 
 echo "server {
         listen 443 ssl http2;
-        server_name yusman.42.fr;
+        server_name hakaddou.42.fr;
 
         root   /var/www/html/wordpress;
         index index.php index.html index.htm index.nginx-debian.html;

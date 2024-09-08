@@ -19,4 +19,3 @@ mysql -u root -e "CREATE DATABASE $DB_NAME;
     FLUSH PRIVILEGES;"
 
 wait $mysql_pid
-0
