@@ -6,7 +6,6 @@
   <h3 align="center">Inception</h3>
   System administration exercise with Docker to manage and configure services
   <br>
-  <br>
 </div>
 
 <br>
